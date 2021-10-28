@@ -33,6 +33,7 @@ body {
     justify-content: center;
     color: #fff;
 }
+
 .cover-image {
     margin-top: 2.8rem;
     height: 380px;
@@ -367,7 +368,7 @@ body {
         margin-left: 5.5rem;
     }
     .btn1 {
-        margin-left: 80rem !important;
+        margin-left: 50rem !important;
     }
     .subtitleCSS h2 {
         color: #662282;
