@@ -1,0 +1,35 @@
+.buttonStyle2 {
+    background-color: #662282 !important;
+    border-radius: 0.4rem;
+    padding: 0.3rem !important;
+    font-weight: 500 !important;
+    margin-bottom: 0.4rem;
+    color: #e1b0d2 !important;
+    border-color: #662282 !important;
+    width: 20%;
+    margin-top: 0.7rem;
+    font-size: 12px;
+    margin-left: 5.5rem;
+}
+
+.modal-content {
+    width: 60%;
+    margin-left: 10rem;
+    margin-top: 10rem;
+}
+
+.timer {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 1.4em;
+    letter-spacing: -1px;
+}
+
+.timer span {
+    font-size: 2em;
+    margin: 0 3px 0 15px;
+}
+
+.titleC {
+    color: #662282;
+}

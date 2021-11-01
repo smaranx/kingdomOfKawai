@@ -1,0 +1,401 @@
+a,
+a:focus,
+a:hover {
+    color: #fff;
+}
+
+.marginClass {
+    margin-left: 12rem;
+}
+
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+    color: #333;
+    text-shadow: none;
+    background-color: #fff;
+    border: 0.05rem solid #fff;
+}
+
+html,
+body {
+    height: 100%;
+    background-color: #fad8e8;
+    overflow-x: hidden;
+}
+
+body {
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    -ms-flex-pack: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    color: #fff;
+}
+
+.cover-image {
+    margin-top: 2.8rem;
+    height: 380px;
+    margin-left: 16rem;
+}
+
+.cover-image1 {
+    margin-top: 1rem;
+    height: 350px;
+}
+
+.alignClass {
+    margin-top: 1rem;
+    margin-left: 26rem !important;
+}
+
+.marketing {
+    margin-top: 4rem;
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.marketing .col-lg-4 {
+    text-align: center;
+    margin-bottom: 1.2rem;
+    text-align: center;
+}
+
+.marketing .col-lg-4 img {
+    width: 16rem;
+    margin-left: 0.75rem;
+    height: auto;
+}
+
+.marketing h2 {
+    font-weight: 500;
+    font-size: 1.2rem;
+    margin-top: 1.8rem;
+    color: #662282;
+}
+
+.marketing .col-lg-4 p {
+    margin-right: 0.75rem;
+    margin-left: 0.75rem;
+}
+
+.paddingClass {
+    padding-bottom: 2rem;
+}
+
+.cover-image-wave {
+    margin-top: -35rem !important;
+}
+
+.masthead {
+    margin-bottom: 2rem;
+}
+
+.masthead-brand {
+    margin-bottom: 0;
+}
+
+.nav-masthead .nav-link {
+    z-index: 999 !important;
+    padding: 0.1rem 0;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.5);
+    background-color: transparent;
+    border-bottom: 0.25rem solid transparent;
+}
+
+.nav-masthead .nav-link+.nav-link {
+    margin-left: 0.5rem;
+}
+
+.nav-masthead .active {
+    color: #fff;
+    border-bottom-color: #fff;
+}
+
+@media (min-width: 48em) {
+    .masthead-brand {
+        float: left;
+    }
+    .nav-masthead {
+        float: right;
+    }
+}
+
+.cover {
+    padding: 0 1.5rem;
+}
+
+.cover .btn-lg {
+    padding: 0.75rem 1.25rem;
+    font-weight: 700;
+}
+
+.mastfoot {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.counterStyle {
+    text-align: center;
+    margin-top: -13rem;
+    margin-left: 45rem;
+}
+
+.buttonStyle {
+    background-color: #e1b0d2 !important;
+    border-radius: 0.4rem;
+    padding: 0.4rem !important;
+    height: 1.9rem;
+    font-weight: 100 !important;
+    margin-top: 0.1rem;
+    color: black !important;
+    border-color: #e1b0d2 !important;
+}
+
+.iconStyle {
+    margin-left: 0.5rem;
+    margin-top: -0.4rem;
+}
+
+.buttonStyle2 {
+    margin-left: 13rem;
+    background-color: #662282 !important;
+    border-radius: 0.4rem;
+    padding: 0.5rem !important;
+    font-weight: 100 !important;
+    margin-bottom: 2rem;
+    color: white !important;
+    border-color: #662282 !important;
+    width: 20%;
+    font-size: 18px;
+}
+
+.container2 {
+    padding-top: 5rem;
+    padding-right: 10rem;
+    padding-left: 10rem;
+}
+
+.Roadcontainer {
+    color: white;
+    font-size: 3rem;
+    margin-top: -18rem;
+}
+
+.Roadsubcontainer {
+    font-weight: 490;
+    letter-spacing: 0.03vw;
+    line-height: 1.5;
+    margin-top: -12rem;
+    color: #e1b0d2;
+    font-size: 1.2rem;
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+
+.subHead {
+    font-weight: 490;
+    letter-spacing: 0.03vw;
+    line-height: 1.5;
+    color: #662282;
+    font-size: 1.1rem;
+}
+
+.footerText {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.footerText2 {
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.Roadcontainer2 {
+    color: white;
+    font-size: 3rem;
+    margin-top: -18rem;
+    /* padding: 20rem; */
+}
+
+.Roadsubcontainer2 {
+    font-weight: 490;
+    letter-spacing: 0.03vw;
+    line-height: 1.5;
+    margin-top: -12rem;
+    color: #e1b0d2;
+    font-size: 1.2rem;
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+
+.titleCSS {
+    color: #662282;
+    font-size: 1rem;
+}
+
+.titleCSS4 {
+    color: #662282;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.titleCSS5 {
+    color: #662282;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.titleCSS6 {
+    color: #9a4d8d;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+.subtitleCSS h2 {
+    color: #662282;
+    font-size: 1.6rem !important;
+}
+
+.titleCSS2 {
+    color: #662282;
+    font-size: 1.5rem;
+}
+
+.cardCSS {
+    color: #662282;
+    background-color: #fad8e8 !important;
+    border-color: #fad8e8;
+    text-align: start !important;
+}
+
+.cardImage {
+    height: 200px;
+}
+
+@media (max-width: 768px) {
+    .Roadcontainer2 {
+        color: white;
+        font-size: 1.3rem;
+        margin-top: -5rem;
+    }
+    .alignClass {
+        margin-top: 1rem;
+        margin-left: 3rem !important;
+    }
+    .Roadsubcontainer2 {
+        font-weight: 490;
+        letter-spacing: 0.03vw;
+        line-height: 1.5;
+        color: #e1b0d2;
+        font-size: 0.6rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        margin-top: -3rem;
+    }
+    .poster {
+        margin-top: 2rem;
+        height: 120% !important;
+    }
+    .Roadcontainer {
+        color: white;
+        font-size: 1.3rem;
+        margin-top: 0rem;
+        margin-top: -5.2rem;
+    }
+    .Roadsubcontainer {
+        margin-top: -3.8rem;
+        font-weight: 490;
+        letter-spacing: 0.03vw;
+        line-height: 1.5;
+        color: #e1b0d2;
+        font-size: 0.6rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .cardImage {
+        height: 300px;
+    }
+    .cover-image1 {
+        margin-top: 2rem;
+        height: 200px;
+    }
+    .cover-image {
+        margin-top: 2rem;
+        height: 200px;
+        margin-left: 1rem;
+        margin-bottom: 2rem;
+    }
+    .container2 {
+        align-content: center;
+        padding-top: 5rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+        text-align: center;
+    }
+    .cover-image-wave {
+        margin-top: -16rem !important;
+    }
+    .titleCSS2 {
+        color: #662282;
+        font-size: 1rem;
+        font-weight: 700;
+        margin-top: 6rem;
+        font-style: bold;
+    }
+    .counterStyle {
+        text-align: center;
+        margin-top: -0.5rem;
+        margin-left: 0rem;
+        padding-bottom: 1rem;
+        background-color: #e1b0d2;
+    }
+    .counterStyle2 {
+        background-color: #e1b0d2;
+    }
+    .buttonStyle2 {
+        background-color: #662282 !important;
+        border-radius: 0.4rem;
+        padding: 0.3rem !important;
+        font-weight: 500 !important;
+        margin-bottom: 3rem;
+        color: #e1b0d2 !important;
+        border-color: #662282 !important;
+        width: 50%;
+        margin-top: 1.2rem;
+        font-size: 9px;
+        margin-left: 5.5rem;
+    }
+    .btn1 {
+        margin-left: 2rem !important;
+    }
+    .subtitleCSS h2 {
+        color: #662282;
+        font-size: 1.2rem !important;
+    }
+    .footerText {
+        font-size: 0.9rem;
+        font-weight: 600;
+    }
+    .footerText2 {
+        font-size: 0.5rem;
+        font-weight: 500;
+    }
+    .marketing {
+        height: 200%;
+        margin-top: 4rem;
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+    .iconStyle {
+        margin-top: -0.4rem;
+        margin-left: 0rem;
+    }
+    .col-sm-1 {
+        width: 33% !important;
+    }
+    .marginClass {
+        margin: 0.5rem;
+    }
+}
